@@ -17,7 +17,7 @@ def dashboard():
 def Home():
     return "Welcome to Home page"
 
-@app.get("/students/marks")
+@app.get("/student/marks")
 def Home():
     return "81,22,34,54,67,89,76"
 
