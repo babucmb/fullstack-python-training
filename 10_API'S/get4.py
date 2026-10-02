@@ -12,7 +12,7 @@ tourist_places={
 }
 
 app=FastAPI()
-@app.get("/get_places/{country}")
+@app.get("/get_places/{country}") # Path parameter passing
 
 async def get_place(country: str):
 
