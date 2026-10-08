@@ -1,4 +1,5 @@
 # Posting the request using pydantic
+# post api call is used to store the data at server side
 from fastapi import FastAPI
 
 from pydantic import BaseModel
