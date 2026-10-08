@@ -1,3 +1,4 @@
+# Posting the request using pydantic
 from fastapi import FastAPI
 
 from pydantic import BaseModel
