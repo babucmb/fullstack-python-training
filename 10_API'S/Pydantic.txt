@@ -1,0 +1,20 @@
+what is Pydantic?
+--> Pydantic makes sure that the data your python program recives has the structure and types you expect.
+
+For Example:
+name --> String
+age --> integer
+
+A client might send:
+{
+    name="adhi"
+    age=24
+
+}
+
+
+
+-------------------------------------------
+
+what is async?
+--> async is used in pthon to make a function asynchronous, meaning it can perfrom operations that inolve waiting without bloacking thhe entrie program
