@@ -1,4 +1,4 @@
-"""Employee Payroll System - a small Python + FastAPI learning project."""
+"""Employee Payroll System - a small Python + FastAPI learning project's."""
 import csv
 import io
 from datetime import date, datetime
