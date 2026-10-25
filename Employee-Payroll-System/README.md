@@ -1,4 +1,4 @@
-# Employee Payroll System
+# Employee Payroll's System
 
 A small Python learning project built with **FastAPI**. It demonstrates Python fundamentals through employee records and a monthly payroll calculator. It is intentionally not a production payroll product.
 
