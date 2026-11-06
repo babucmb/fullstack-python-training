@@ -1,6 +1,6 @@
 # 🐍 Full Stack Python Training
 
-This repository contains my learning journey and daily practice during my Full Stack Python training.
+This repository contains my learning journey and daily practice's during my Full Stack Python training.
 
 I am regularly updating this repository with Python concepts, coding exercises, problem-solving practice, and projects as I progress through the training.
 
