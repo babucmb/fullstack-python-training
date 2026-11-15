@@ -13,7 +13,7 @@ student_data={}  # empty database
 @app.post("/student/")
 def create_student(s:Student):
     student_data[s.name]=s.age # Storing the name in database
-    # student_data[s.age]=s.age # Stroing the age in database
+    # student_data[s.age]=s.age # Storing the age in database
     return student_data[s.name],student_data[s.age] # return the stored data
 
 # put api call
