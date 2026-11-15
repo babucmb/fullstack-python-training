@@ -5,7 +5,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 app=FastAPI()
-# class whihc store the sturture of data
+# class which store the sturture of data
 class Student(BaseModel):
     name:str
     age: int
